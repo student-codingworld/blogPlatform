@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Allow: /
+
+Sitemap: http://localhost/blog-site/blog-php//sitemap.xml
