@@ -1,4 +1,4 @@
-# blogPlatform
+# blogPlatform at intermediate level. . . . . . . . . . . . . . . . .  
 
 blogPlatform
 
